@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Tue, 18 May 2018 15:58:08 +0200
+Source: filemanager-actions
+Binary: filemanager-actions
+Architecture: source
+Version: 3.4-1
+Distribution: unstable
+Urgency: medium
+Maintainer: Takanori Suzuki <mail.tks@gmail.com>
+Changed-By: Daniel Marynicz <daniel.marynicz@gmail.com>
+Description:
+ filemanager-actions - filemanager extension to configure programs to launch
+Changes:
+ filemanager-actions (3.4-1) unstable; urgency=medium
+ .
+   * Initial release
+Checksums-Sha1:
+ 30988bcfb30b16fa4889b6878297c01f32c94b90 1323 filemanager-actions_3.4-1.dsc
+ df471ca065a70ffc55ad0c82639b4e0f00be6b30 3280320 filemanager-actions_3.4.orig.tar.xz
+ df63d972b10c30e645fae983989db40967bc78ad 2720 filemanager-actions_3.4-1.debian.tar.xz
+ e6560da99935bbc8de0611690aa5b606397f760f 9329 filemanager-actions_3.4-1_source.buildinfo
+Checksums-Sha256:
+ f74deac1e8897a8da603deb610b6519620369a1d314080b272148edb9a415c57 1323 filemanager-actions_3.4-1.dsc
+ 10189781af90df4c99fde0fe98eacd2e12f4577eff5dc9b769618d980668a997 3280320 filemanager-actions_3.4.orig.tar.xz
+ e07f9c8f354751b630859f3ae5a100b4ef421bcaf1ef7e52d16d0687a981abcf 2720 filemanager-actions_3.4-1.debian.tar.xz
+ 38406b8737d2e1ea1970eec0e3cfd35624873ccb8ccc1c8b47cc6475ee818807 9329 filemanager-actions_3.4-1_source.buildinfo
+Files:
+ 7950f27e7f9beb2721a6d4000e0757f7 1323 gnome optional filemanager-actions_3.4-1.dsc
+ 5748c9228705645ea67f273c12439955 3280320 gnome optional filemanager-actions_3.4.orig.tar.xz
+ b8565c547c97c820a0f90e52fe7fc844 2720 gnome optional filemanager-actions_3.4-1.debian.tar.xz
+ a8fa9cf1da6bed741cbb51eb2c796365 9329 gnome optional filemanager-actions_3.4-1_source.buildinfo
