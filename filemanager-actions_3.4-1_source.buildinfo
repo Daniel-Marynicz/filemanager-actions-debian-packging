@@ -1,17 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.0
 Source: filemanager-actions
 Binary: filemanager-actions
 Architecture: source
 Version: 3.4-1
 Checksums-Md5:
- 7950f27e7f9beb2721a6d4000e0757f7 1323 filemanager-actions_3.4-1.dsc
+ 48b62c2d1f6e3a9984f10fbd6ec19cc7 2243 filemanager-actions_3.4-1.dsc
 Checksums-Sha1:
- 30988bcfb30b16fa4889b6878297c01f32c94b90 1323 filemanager-actions_3.4-1.dsc
+ 736a08103c05f96b6eb19e8ebae5e85bcc70ac5c 2243 filemanager-actions_3.4-1.dsc
 Checksums-Sha256:
- f74deac1e8897a8da603deb610b6519620369a1d314080b272148edb9a415c57 1323 filemanager-actions_3.4-1.dsc
+ b55657a08e632cf5619fe6eefd9d5b61502a65f630e6ac2fbb01e9a5ade9551a 2243 filemanager-actions_3.4-1.dsc
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Fri, 18 May 2018 16:06:23 +0200
+Build-Date: Fri, 18 May 2018 22:30:54 +0200
 Installed-Build-Depends:
  autoconf (= 2.69-11),
  automake (= 1:1.15.1-3ubuntu2),
@@ -53,6 +56,7 @@ Installed-Build-Depends:
  fonts-liberation (= 1:1.07.4-5),
  g++ (= 4:7.3.0-3ubuntu2),
  g++-7 (= 7.3.0-16ubuntu3),
+ gawk (= 1:4.1.4+dfsg-1build1),
  gcc (= 4:7.3.0-3ubuntu2),
  gcc-7 (= 7.3.0-16ubuntu3),
  gcc-7-base (= 7.3.0-16ubuntu3),
@@ -294,6 +298,24 @@ Installed-Build-Depends:
  xz-utils (= 5.2.2-1.3),
  zlib1g (= 1:1.2.11.dfsg-0ubuntu2)
 Environment:
- DEB_BUILD_OPTIONS="parallel=4"
+ DEB_BUILD_OPTIONS="parallel=8"
  LANG="pl_PL.UTF-8"
  SOURCE_DATE_EPOCH="1526651888"
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJOBAEBCgA4FiEENGY0AA4M2jC2fqkmLadDoB5TzEIFAlr/N/4aHGRhbmllbC5t
+YXJ5bmljekBnbWFpbC5jb20ACgkQLadDoB5TzEKbXg//ZRQAy58JOnKovBd3reoM
+5R+fYH9EAbZuUxwKken6sw5gUqfVi1fc0b7dhDiKT9S4kC+F2qSVj2e0FQFVgaQD
+/8N3J4oo+Eyr3Eb3k78EJexMXFdu7uIOlcnCareu6BkrJNvauDmnTQgFcbviTvNy
+zQxA9EvOr6zzJIJx94D57r8S1L/b/Vb0F/rgtm0gBZzmjiK/1oa+xr3K5sRhaJBE
+Pi8H46F+FaBvDLEC/3hD9tmUahDRRIr8Bp+o980oaOy+xDXv2c/9xKiBZ4UsrfJx
+HtQ+rC/QmiCJl7boiotZoFPTX06t6mHJ0brV274f5kmBnrkgmc+Qi+qMufPAewRg
+Fw6CZJsTGjyTorv2H6Tct/eO6S39pUE9eu14bEM5h0FWE+vk/3iR0huQb9gTolvE
+cMEDdzAJoxWqGyhXL557NVlUnlXdJpXZ4A4miuVm7oZhLrzrjbdyMfkf2TdmdvdG
+84wJnsySnjWpP5eOQpzmXvvR58kaE3+GrVTDS4Xod74Ebl7anJ/Sp9Ar0W3HGPgw
+tugEitVs4B4sWWN4wrMB2Ip3d1svRSy+xvWEQqNS+yhxkwX0A+86iqcAAWOeT5Kd
+2GuwSbASCzm3cTWyCy3wdFara5X5B3r7Dvs1cRqD7ur0DW+PGh8JVEo4NqzfrQmZ
+j2bm2d2SVqHEJkWrAhgGcqI=
+=j9pR
+-----END PGP SIGNATURE-----

@@ -1,3 +1,6 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
 Format: 1.8
 Date: Tue, 18 May 2018 15:58:08 +0200
 Source: filemanager-actions
@@ -15,17 +18,35 @@ Changes:
  .
    * Initial release
 Checksums-Sha1:
- 30988bcfb30b16fa4889b6878297c01f32c94b90 1323 filemanager-actions_3.4-1.dsc
+ 736a08103c05f96b6eb19e8ebae5e85bcc70ac5c 2243 filemanager-actions_3.4-1.dsc
  df471ca065a70ffc55ad0c82639b4e0f00be6b30 3280320 filemanager-actions_3.4.orig.tar.xz
- df63d972b10c30e645fae983989db40967bc78ad 2720 filemanager-actions_3.4-1.debian.tar.xz
- e6560da99935bbc8de0611690aa5b606397f760f 9329 filemanager-actions_3.4-1_source.buildinfo
+ 21cded801667cda5679d3ec4bce7413761bebbb0 2660 filemanager-actions_3.4-1.debian.tar.xz
+ 80c148ef6321ec7677008defd826634b24e60f74 10281 filemanager-actions_3.4-1_source.buildinfo
 Checksums-Sha256:
- f74deac1e8897a8da603deb610b6519620369a1d314080b272148edb9a415c57 1323 filemanager-actions_3.4-1.dsc
+ b55657a08e632cf5619fe6eefd9d5b61502a65f630e6ac2fbb01e9a5ade9551a 2243 filemanager-actions_3.4-1.dsc
  10189781af90df4c99fde0fe98eacd2e12f4577eff5dc9b769618d980668a997 3280320 filemanager-actions_3.4.orig.tar.xz
- e07f9c8f354751b630859f3ae5a100b4ef421bcaf1ef7e52d16d0687a981abcf 2720 filemanager-actions_3.4-1.debian.tar.xz
- 38406b8737d2e1ea1970eec0e3cfd35624873ccb8ccc1c8b47cc6475ee818807 9329 filemanager-actions_3.4-1_source.buildinfo
+ d081105390c0b3f9af4e56973455a703982cd198724987bc91f4cead7bbcdb65 2660 filemanager-actions_3.4-1.debian.tar.xz
+ a865adc1a1d6926cb7bff11bcbc31530f8862d00893bc35c2a02d6b3427224ad 10281 filemanager-actions_3.4-1_source.buildinfo
 Files:
- 7950f27e7f9beb2721a6d4000e0757f7 1323 gnome optional filemanager-actions_3.4-1.dsc
+ 48b62c2d1f6e3a9984f10fbd6ec19cc7 2243 gnome optional filemanager-actions_3.4-1.dsc
  5748c9228705645ea67f273c12439955 3280320 gnome optional filemanager-actions_3.4.orig.tar.xz
- b8565c547c97c820a0f90e52fe7fc844 2720 gnome optional filemanager-actions_3.4-1.debian.tar.xz
- a8fa9cf1da6bed741cbb51eb2c796365 9329 gnome optional filemanager-actions_3.4-1_source.buildinfo
+ d108971deb8ce3c61a2c87fb58bc55cb 2660 gnome optional filemanager-actions_3.4-1.debian.tar.xz
+ 9fc160a5bb15898b46f674605e5af4d0 10281 gnome optional filemanager-actions_3.4-1_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJOBAEBCgA4FiEENGY0AA4M2jC2fqkmLadDoB5TzEIFAlr/N/8aHGRhbmllbC5t
+YXJ5bmljekBnbWFpbC5jb20ACgkQLadDoB5TzEIrIg//SXOdS6eCRIa1YqADPdfB
+WvIcdGyOZJN/0XEypKNcKWc7X6S284VVqC+X0/XA86vNCcJE1pOk8P89U7PP7OJO
+7JZEnbbJ0we+f3MqY1xgV19WKQtExRavOxlyrYLvUBVveUkDuTK3TohDmPJVtZGF
+rgVMMaOVEr/YV8vmbHSyyF2tVxr7VpguxQ0eVXIUdrxGImCMOa8pOXYQmg9Lzi//
+BP9TR7fuzYgyVvzPtH11f3rBDDsvXXaYSR29Pwq5RkGBazwQTFk8Fv1/TuI3JqRw
+UoLhW1XxEk4tfRo1dVoqqmWVT+wB1Iy0nw8KJcAcodLCDpvWm8JXTZsvVDmUeNIw
+Px+zKVF1j2WsdmWOXtCbj9CZk1itjduDU+dqMv9DddkU1FwJaG9Sv8HK5YR/iDGh
+eQXuyRDee2lhWycyt6cIwrJOvwxNlDF42GWmFBEd7BUleXZCuvIcH72zVYrAuP9+
+Q2C/26lu+qcQjzZ+bMkWZ3xbO424viKgHr8HALqOloFxihbCaKZzoCcnVzZ49dr5
+Izk2ztiQSoal38qJSDO2g8cW9efc5rck4dIK3tuwBxJ3BuXgU4g1o12SpN3q7WMB
+BWMIkkZ074oNDivhOa4lkpuzq62BeOYM7insIOaFz5PKRU9uSROTT40IYjTxPYQ6
+5br6U6hFqMyRsBQDY6k23cM=
+=LavZ
+-----END PGP SIGNATURE-----
