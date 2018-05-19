@@ -7,14 +7,14 @@ Binary: filemanager-actions
 Architecture: source
 Version: 3.4-1
 Checksums-Md5:
- 48b62c2d1f6e3a9984f10fbd6ec19cc7 2243 filemanager-actions_3.4-1.dsc
+ 4d27937ca80ffaf4d813fbb96c1baec5 2243 filemanager-actions_3.4-1.dsc
 Checksums-Sha1:
- 736a08103c05f96b6eb19e8ebae5e85bcc70ac5c 2243 filemanager-actions_3.4-1.dsc
+ 862fa5785a7a6a2c338857814637a8b891142d05 2243 filemanager-actions_3.4-1.dsc
 Checksums-Sha256:
- b55657a08e632cf5619fe6eefd9d5b61502a65f630e6ac2fbb01e9a5ade9551a 2243 filemanager-actions_3.4-1.dsc
+ 4090d4967af98ef79e9f084db189f0a2b1054a5e860b963bf4f44651f107c6a1 2243 filemanager-actions_3.4-1.dsc
 Build-Origin: Ubuntu
 Build-Architecture: amd64
-Build-Date: Fri, 18 May 2018 22:30:54 +0200
+Build-Date: Sat, 19 May 2018 12:41:23 +0200
 Installed-Build-Depends:
  autoconf (= 2.69-11),
  automake (= 1:1.15.1-3ubuntu2),
@@ -300,22 +300,22 @@ Installed-Build-Depends:
 Environment:
  DEB_BUILD_OPTIONS="parallel=8"
  LANG="pl_PL.UTF-8"
- SOURCE_DATE_EPOCH="1526651888"
+ SOURCE_DATE_EPOCH="1526726288"
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJOBAEBCgA4FiEENGY0AA4M2jC2fqkmLadDoB5TzEIFAlr/N/4aHGRhbmllbC5t
-YXJ5bmljekBnbWFpbC5jb20ACgkQLadDoB5TzEKbXg//ZRQAy58JOnKovBd3reoM
-5R+fYH9EAbZuUxwKken6sw5gUqfVi1fc0b7dhDiKT9S4kC+F2qSVj2e0FQFVgaQD
-/8N3J4oo+Eyr3Eb3k78EJexMXFdu7uIOlcnCareu6BkrJNvauDmnTQgFcbviTvNy
-zQxA9EvOr6zzJIJx94D57r8S1L/b/Vb0F/rgtm0gBZzmjiK/1oa+xr3K5sRhaJBE
-Pi8H46F+FaBvDLEC/3hD9tmUahDRRIr8Bp+o980oaOy+xDXv2c/9xKiBZ4UsrfJx
-HtQ+rC/QmiCJl7boiotZoFPTX06t6mHJ0brV274f5kmBnrkgmc+Qi+qMufPAewRg
-Fw6CZJsTGjyTorv2H6Tct/eO6S39pUE9eu14bEM5h0FWE+vk/3iR0huQb9gTolvE
-cMEDdzAJoxWqGyhXL557NVlUnlXdJpXZ4A4miuVm7oZhLrzrjbdyMfkf2TdmdvdG
-84wJnsySnjWpP5eOQpzmXvvR58kaE3+GrVTDS4Xod74Ebl7anJ/Sp9Ar0W3HGPgw
-tugEitVs4B4sWWN4wrMB2Ip3d1svRSy+xvWEQqNS+yhxkwX0A+86iqcAAWOeT5Kd
-2GuwSbASCzm3cTWyCy3wdFara5X5B3r7Dvs1cRqD7ur0DW+PGh8JVEo4NqzfrQmZ
-j2bm2d2SVqHEJkWrAhgGcqI=
-=j9pR
+iQJOBAEBCgA4FiEENGY0AA4M2jC2fqkmLadDoB5TzEIFAlr//1kaHGRhbmllbC5t
+YXJ5bmljekBnbWFpbC5jb20ACgkQLadDoB5TzEK44Q/+Nfvs0HkFzqdCXMWTjnmy
+ptNekGVw9R7ZGVFrEF+RQjDBN4sJ/S12fiPmwwCV3vep9Gq8qyheVfRIxPiRayms
+PpVUoRNBQAUAgzycqOwFvds+NgrxunSTTINy/U7e7TtCdk1QQpXNEjSgPA4/U4S4
+Zyw4CTTy7AvBuxLEGVgdDpvh7mTmfXmc74gza0BscAQyQihmuckqvRo686T7CG7b
+9F53Vrc/HrdjMxtCa+28AYZbONPzBfK6lNSl+kqFkTzzmobcev/TkfVrFWb9SP4A
+NiLCZhuooTyzkUa23PnQWtK2+FTt/nhWm1Qbx6Z+cH91rd+AjYNzNayU24uoqZNb
+UNKyVEOCT1jWnxpmGG0fUy1P023KoMvCrCvvnEyI3QTJ9fyqyzzmsoMkDVJa+eC2
+QNLFttQ83ULm+qCe0Cb/g757eDbu5c/vcvhtLRlQK+4yOKgsrLqu3WLmVG8YcMfm
+f54F1C2+dEIs4njAE3khWa1o/UxnCBIbaWae8Iku/RB+8nFofMSTp3qrC19fmxC1
+e7hpPp4QK0t0crTA+s1VHa6i/vrMUCUbN7i1t36uQiPsK8nO2tfX7FMRB9QTLro7
+rga6qPE8avN/Jl4ToEJQtj8Q8U8qgPtSn9lNxR4i8n/4S6Fk++gf7G8VR3Uneftd
+GIBaSAyD0HKbx0EdNMOPflE=
+=lyHn
 -----END PGP SIGNATURE-----

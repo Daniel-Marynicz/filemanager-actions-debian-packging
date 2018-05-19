@@ -15,28 +15,28 @@ Package-List:
  filemanager-actions deb gnome optional arch=any
 Checksums-Sha1:
  df471ca065a70ffc55ad0c82639b4e0f00be6b30 3280320 filemanager-actions_3.4.orig.tar.xz
- 21cded801667cda5679d3ec4bce7413761bebbb0 2660 filemanager-actions_3.4-1.debian.tar.xz
+ 629739783cc281ea55dc36427b17a082bd96d8d6 2668 filemanager-actions_3.4-1.debian.tar.xz
 Checksums-Sha256:
  10189781af90df4c99fde0fe98eacd2e12f4577eff5dc9b769618d980668a997 3280320 filemanager-actions_3.4.orig.tar.xz
- d081105390c0b3f9af4e56973455a703982cd198724987bc91f4cead7bbcdb65 2660 filemanager-actions_3.4-1.debian.tar.xz
+ 3c2d2da1be2750ae3089163f20220dbace9ff215dff6894b6d7591d95edc1f46 2668 filemanager-actions_3.4-1.debian.tar.xz
 Files:
  5748c9228705645ea67f273c12439955 3280320 filemanager-actions_3.4.orig.tar.xz
- d108971deb8ce3c61a2c87fb58bc55cb 2660 filemanager-actions_3.4-1.debian.tar.xz
+ 7d472104779e1d942b28d609c0208e76 2668 filemanager-actions_3.4-1.debian.tar.xz
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJOBAEBCgA4FiEENGY0AA4M2jC2fqkmLadDoB5TzEIFAlr/N/4aHGRhbmllbC5t
-YXJ5bmljekBnbWFpbC5jb20ACgkQLadDoB5TzELarQ/+MuHtWX8VNzpVZaW9mXdI
-w3a32jT+75myEBKgXudyjYv2xZu/79+lJUWVKZQDFnGU2LmYrDAEqyt+FNIq8v2O
-1M+A6+ycCJ5W0TqhUDHfVEbVpvLZApGlbyguJl8YkJ4cOq6eIu41cUAW8CCQRLnR
-yc6r3TFfXKe/fshdyxaZLGJf+lhJ9rhyJ1HyBgnv26ZNWuLFxHQtJGojEeC9fzpe
-j7HGD4bJajh9IVmdGT7wzFVb42A0vejtUlUirEygDEnrDG7PsxFjVDoHspQIFDWN
-dP/c6TkYmZa620G2uZSMFMMn6Lv50DO+4OiwU/U0ekagT/OF+Hj6HwafdFLdog+9
-knimtMOnAkO/agxqDJVaXIerrz+L//TMGqhEO0OnfZ+6DHpgCxWHo3yb3xtjp6VA
-1taQfppDrbFE+JMEvMudUAg3keij+MXTIw6FOqG+GRKkOErHKxcd1/rTp0HJeZkd
-yrMF1oYeCUrng8nuwA0a+2N6Iolw1tvanHJK4BkRSAv2n8LReEY4vd973bc/kIvx
-EGK4zVYDEJX7h3jrCMH1DhBvbi/XjOFoJrnazAZdOTl1agRhMHABAEwH0qPmBnC8
-ob/vkqYOG25k1MimoN8A0/8OreKQcFarUeH00jfmzlEknysWIBXBs7hQVnT8c092
-10lWEbzVCG6gEK93Ra9OH3I=
-=60bY
+iQJOBAEBCgA4FiEENGY0AA4M2jC2fqkmLadDoB5TzEIFAlr//1QaHGRhbmllbC5t
+YXJ5bmljekBnbWFpbC5jb20ACgkQLadDoB5TzEK3dxAAkMXQt2itSarHp2lQNU8A
+JAYnnxEDVsxLm0yjAQAWetaLJ5rnrVJwWZw9jQJUJZIfuPaOTcWfeunWVAY4tlOk
+RFkqyGLq1EC969fG+VVTgnetnAg/puOLlKLW2grUIbu53A+1CnHFwfR+cMEKMf7a
+LZQBH84+1OxUPsg4lqbWVhqp4MkFaYGHGZxrl4Hr4QcPqu/FLp37v9GQw4OMaMtZ
+75HCPyYXxadUs9gVgp1NYrsrF03VMbgmdS9FEetYB+Ge/sXQ2RTAL3I1Aec9EBJl
+ZTmgO6Ie7S9cEmFDlifzi7Yrd8TzWlVIL46onqgYUzBJLt9zUhE4CH9wG9uXcdQ4
+PQp3uQI1WPuNQQ0cThFoo4mFKXa+DoAzrNtY+o96zqJ08/ElRefbgA+riHeArQit
+y/06S31C2FRJsaX3giMlx4z2JpDATg0P1er/A50oaK4zifmjL5GoTm+jTGwnYLDJ
+2TabppCFC3pqKbVpPVvQoGeh/w5V9Vm/07oi72X3eHtGLP4cQ+a3MY8VRd0AytVC
+9g76bbRh25lHocol7QSxbjZcFkNblv6DJGt3DcLOrUGUQKhtEbrzWnjIoSAHc5om
+V/uz9Ug/hwkkt9SKsWgESIDTBrlAHmwJaVBQJ3nULQOUh/+qnL5j5lk9NA8ONdce
+iIg7czPrtNaWJvVHgOVEExs=
+=+6gD
 -----END PGP SIGNATURE-----

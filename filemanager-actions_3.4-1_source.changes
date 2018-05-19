@@ -2,51 +2,51 @@
 Hash: SHA512
 
 Format: 1.8
-Date: Tue, 18 May 2018 15:58:08 +0200
+Date: Tue, 19 May 2018 12:38:08 +0200
 Source: filemanager-actions
 Binary: filemanager-actions
 Architecture: source
 Version: 3.4-1
-Distribution: unstable
+Distribution: bionic
 Urgency: medium
 Maintainer: Takanori Suzuki <mail.tks@gmail.com>
 Changed-By: Daniel Marynicz <daniel.marynicz@gmail.com>
 Description:
  filemanager-actions - filemanager extension to configure programs to launch
 Changes:
- filemanager-actions (3.4-1) unstable; urgency=medium
+ filemanager-actions (3.4-1) bionic; urgency=medium
  .
    * Initial release
 Checksums-Sha1:
- 736a08103c05f96b6eb19e8ebae5e85bcc70ac5c 2243 filemanager-actions_3.4-1.dsc
+ 862fa5785a7a6a2c338857814637a8b891142d05 2243 filemanager-actions_3.4-1.dsc
  df471ca065a70ffc55ad0c82639b4e0f00be6b30 3280320 filemanager-actions_3.4.orig.tar.xz
- 21cded801667cda5679d3ec4bce7413761bebbb0 2660 filemanager-actions_3.4-1.debian.tar.xz
- 80c148ef6321ec7677008defd826634b24e60f74 10281 filemanager-actions_3.4-1_source.buildinfo
+ 629739783cc281ea55dc36427b17a082bd96d8d6 2668 filemanager-actions_3.4-1.debian.tar.xz
+ bdc7b85ed34a75e01cbaf24737f250dc1bc28346 10281 filemanager-actions_3.4-1_source.buildinfo
 Checksums-Sha256:
- b55657a08e632cf5619fe6eefd9d5b61502a65f630e6ac2fbb01e9a5ade9551a 2243 filemanager-actions_3.4-1.dsc
+ 4090d4967af98ef79e9f084db189f0a2b1054a5e860b963bf4f44651f107c6a1 2243 filemanager-actions_3.4-1.dsc
  10189781af90df4c99fde0fe98eacd2e12f4577eff5dc9b769618d980668a997 3280320 filemanager-actions_3.4.orig.tar.xz
- d081105390c0b3f9af4e56973455a703982cd198724987bc91f4cead7bbcdb65 2660 filemanager-actions_3.4-1.debian.tar.xz
- a865adc1a1d6926cb7bff11bcbc31530f8862d00893bc35c2a02d6b3427224ad 10281 filemanager-actions_3.4-1_source.buildinfo
+ 3c2d2da1be2750ae3089163f20220dbace9ff215dff6894b6d7591d95edc1f46 2668 filemanager-actions_3.4-1.debian.tar.xz
+ d1f284e6ddb6b2762c6b55e88cc4752e975d3afd0b936a29adbd08b4556086da 10281 filemanager-actions_3.4-1_source.buildinfo
 Files:
- 48b62c2d1f6e3a9984f10fbd6ec19cc7 2243 gnome optional filemanager-actions_3.4-1.dsc
+ 4d27937ca80ffaf4d813fbb96c1baec5 2243 gnome optional filemanager-actions_3.4-1.dsc
  5748c9228705645ea67f273c12439955 3280320 gnome optional filemanager-actions_3.4.orig.tar.xz
- d108971deb8ce3c61a2c87fb58bc55cb 2660 gnome optional filemanager-actions_3.4-1.debian.tar.xz
- 9fc160a5bb15898b46f674605e5af4d0 10281 gnome optional filemanager-actions_3.4-1_source.buildinfo
+ 7d472104779e1d942b28d609c0208e76 2668 gnome optional filemanager-actions_3.4-1.debian.tar.xz
+ 1ff6ae83f3b94652df7a45e25f13751e 10281 gnome optional filemanager-actions_3.4-1_source.buildinfo
 
 -----BEGIN PGP SIGNATURE-----
 
-iQJOBAEBCgA4FiEENGY0AA4M2jC2fqkmLadDoB5TzEIFAlr/N/8aHGRhbmllbC5t
-YXJ5bmljekBnbWFpbC5jb20ACgkQLadDoB5TzEIrIg//SXOdS6eCRIa1YqADPdfB
-WvIcdGyOZJN/0XEypKNcKWc7X6S284VVqC+X0/XA86vNCcJE1pOk8P89U7PP7OJO
-7JZEnbbJ0we+f3MqY1xgV19WKQtExRavOxlyrYLvUBVveUkDuTK3TohDmPJVtZGF
-rgVMMaOVEr/YV8vmbHSyyF2tVxr7VpguxQ0eVXIUdrxGImCMOa8pOXYQmg9Lzi//
-BP9TR7fuzYgyVvzPtH11f3rBDDsvXXaYSR29Pwq5RkGBazwQTFk8Fv1/TuI3JqRw
-UoLhW1XxEk4tfRo1dVoqqmWVT+wB1Iy0nw8KJcAcodLCDpvWm8JXTZsvVDmUeNIw
-Px+zKVF1j2WsdmWOXtCbj9CZk1itjduDU+dqMv9DddkU1FwJaG9Sv8HK5YR/iDGh
-eQXuyRDee2lhWycyt6cIwrJOvwxNlDF42GWmFBEd7BUleXZCuvIcH72zVYrAuP9+
-Q2C/26lu+qcQjzZ+bMkWZ3xbO424viKgHr8HALqOloFxihbCaKZzoCcnVzZ49dr5
-Izk2ztiQSoal38qJSDO2g8cW9efc5rck4dIK3tuwBxJ3BuXgU4g1o12SpN3q7WMB
-BWMIkkZ074oNDivhOa4lkpuzq62BeOYM7insIOaFz5PKRU9uSROTT40IYjTxPYQ6
-5br6U6hFqMyRsBQDY6k23cM=
-=LavZ
+iQJOBAEBCgA4FiEENGY0AA4M2jC2fqkmLadDoB5TzEIFAlr//1kaHGRhbmllbC5t
+YXJ5bmljekBnbWFpbC5jb20ACgkQLadDoB5TzELSsg/+Nf8w7mq8b5V+yjgXLImr
+IH8WXE+UgpWDf1N/OdhJb9bwD+RLKpA7ws2pQHqsdVM2oVf9OPTGvJcY7l/tnAdt
+CBajx4jUhb749A5QY9zj+lGh0DXZz6kNI8DFjj6i17gNpkV1HMzFvF/BAwyqOJ4q
+q25h9Z0oeAtKD7CzzSD1IGAFOm6G4Z9RMCNuN5zhNMyJOPbWzZvoOWnWeMwEGFHE
++p+YEQ2kakesrzJQwoaDWtzo30coye9a1GRhee6pm/lT075LAyKlMcQkUypzobSY
+7qBvf1ub05AU+jSWrHMoZ5CL2rhm4wwLYM2C/JXD0Qf37A9AsRb3xWnWQXZ+/emN
+KFrBnNEqtRlwIJTWXEEeMs+elgzkp9eks3/580QaU5pGMf40XFPOExIYayr9KI6I
+NKSdj6dUIaviMsO7AcY35TJJnJFwAenssny1d/0/DrbG0lU5I5iPucM6NU395sHG
+zfxC7qMJNX8OdKVA2tNHE9DYrtp8ffOj9YJnU7UVXOidLs0ngHI0Acf5s4XOz01W
+Ya0SBvomoKidb83+IxD8PzJEEAFFsp5cloc0uH58Hd4cmbVYlDBEmr6vsVCWN61z
+cFWPjLug4FPv/YhVojL4O3n+GOXfjTALOoNarS7JMAzH1vZ/9deGmuQO8kKafd/1
+nXRYnvH5TrS8cCos+7jygp8=
+=bVoV
 -----END PGP SIGNATURE-----
