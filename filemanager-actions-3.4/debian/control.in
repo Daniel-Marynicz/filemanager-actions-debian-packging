@@ -21,14 +21,36 @@ Build-Depends: debhelper (>= 7.0),
                gnome-doc-utils (>= 0.3.2),
                libgtop2-dev (>= 2.23.1),
                rarian-compat,
-               licensecheck
+               licensecheck,
+               libcaja-extension-dev,
+               libnemo-extension-dev,
+               gtk-doc-tools,
+               dblatex
 Standards-Version: 3.9.5
 
 Package: filemanager-actions
 Architecture: any
 Depends: ${shlibs:Depends}, ${misc:Depends}
-Recommends: ksh
+Recommends: ksh,
+            filemanager-actions-nautilus-extension,
+            filemanager-actions-caja-extension,
+            filemanager-actions-nemo-extension
 Description: filemanager extension to configure programs to launch
  Filemanager actions is an extension for the GNOME file manager.
  It allows the configuration of programs to be launched on files selected
- in the Nautilus interface.
+ in the selected interface.
+
+Package: filemanager-actions-nautilus-extension
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, filemanager-actions
+Description: filemanager extension for the Nautilus interface.
+
+Package: filemanager-actions-caja-extension
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, filemanager-actions
+Description: filemanager extension for the Caja interface.
+
+Package: filemanager-actions-nemo-extension
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, filemanager-actions
+Description: filemanager extension for the Nemo interface.

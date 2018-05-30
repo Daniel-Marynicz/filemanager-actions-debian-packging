@@ -1,5 +1,14 @@
+filemanager-actions (3.4-2) bionic; urgency=medium
+
+  * Added support for the Nemo and Caja interface.
+  * Added html and gnome manuals 
+
+ -- Daniel Marynicz <daniel.marynicz@gmail.com>  Thu, 31 May 2018 00:42:19 +0200
+
 filemanager-actions (3.4-1) bionic; urgency=medium
 
   * Initial release
 
  -- Daniel Marynicz <daniel.marynicz@gmail.com>  Tue, 19 May 2018 12:38:08 +0200
+
+

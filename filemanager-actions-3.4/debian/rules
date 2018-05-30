@@ -7,7 +7,7 @@ LDFLAGS:=$(shell dpkg-buildflags --get LDFLAGS)
 
 LDFLAGS+=-lICE
 
-DESKTOP := debian/filemanager-actions/usr/share/applications/fma-config-tool.desktop
+DESKTOP := debian/tmp/usr/share/applications/fma-config-tool.desktop
 
 include /usr/share/cdbs/1/rules/debhelper.mk
 include /usr/share/cdbs/1/rules/utils.mk
@@ -17,24 +17,28 @@ include /usr/share/gnome-pkg-tools/1/rules/uploaders.mk
 
 DEB_DH_MAKESHLIBS_ARGS_filemanager-actions += --no-act
 
-DEB_CONFIGURE_EXTRA_FLAGS := --with-gtk=3 \
-	--with-default-io-provider=io-desktop \
-  	--disable-gconf
+DEB_CONFIGURE_EXTRA_FLAGS := --with-default-io-provider=io-desktop \
+  	--disable-gconf \
+  	--with-nemo \
+  	--with-caja \
+  	--enable-html-manuals
 
 install/filemanager-actions::
 	# fix .desktop file
 	sed -i 's/AdvancedSettings;//' ${DESKTOP}
 	echo 'Keywords=FileTools;FileManager;CustomMenu;CustomAction' >> ${DESKTOP}
 	# move doc stuff to more canonical location
-	mv debian/filemanager-actions/usr/share/doc/filemanager-actions-${DEB_UPSTREAM_VERSION} debian/filemanager-actions/usr/share/doc/filemanager-actions
+	mv debian/tmp/usr/share/doc/filemanager-actions-${DEB_UPSTREAM_VERSION} debian/tmp/usr/share/doc/filemanager-actions
 	# kill extraneous COPYING file
-	rm debian/filemanager-actions/usr/share/doc/filemanager-actions/COPYING
+	rm debian/tmp/usr/share/doc/filemanager-actions/COPYING
 	# kill upstream installation documentation
-	rm debian/filemanager-actions/usr/share/doc/filemanager-actions/INSTALL
+	rm debian/tmp/usr/share/doc/filemanager-actions/INSTALL
+	# Remove api interface docs
+	rm -rf debian/tmp/usr/share/gtk-doc
 
 binary-post-install/filemanager-actions::
-	find debian/filemanager-actions/usr/lib -name \*.la -exec rm {} \;
+	find debian/tmp/usr/lib -name \*.la -exec rm {} \;
 
 binary-fixup/filemanager-actions::
-	rm debian/filemanager-actions/usr/share/doc/filemanager-actions/ChangeLog
+	rm debian/tmp/usr/share/doc/filemanager-actions/ChangeLog
 
