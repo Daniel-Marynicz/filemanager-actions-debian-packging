@@ -1,3 +1,9 @@
+filemanager-actions (3.4-3) bionic; urgency=medium
+
+  * Move file manager extensions to Suggest field
+
+ -- Daniel Marynicz <daniel.marynicz@gmail.com>  Thu, 31 May 2018 02:02:59 +0200
+
 filemanager-actions (3.4-2) bionic; urgency=medium
 
   * Added support for the Nemo and Caja interface.

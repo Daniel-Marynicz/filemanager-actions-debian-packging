@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Thu, 31 May 2018 02:02:59 +0200
+Source: filemanager-actions
+Binary: filemanager-actions filemanager-actions-nautilus-extension filemanager-actions-caja-extension filemanager-actions-nemo-extension
+Architecture: source
+Version: 3.4-3
+Distribution: bionic
+Urgency: medium
+Maintainer: Takanori Suzuki <mail.tks@gmail.com>
+Changed-By: Daniel Marynicz <daniel.marynicz@gmail.com>
+Description:
+ filemanager-actions - filemanager extension to configure programs to launch
+ filemanager-actions-caja-extension - filemanager extension for the Caja interface.
+ filemanager-actions-nautilus-extension - filemanager extension for the Nautilus interface.
+ filemanager-actions-nemo-extension - filemanager extension for the Nemo interface.
+Changes:
+ filemanager-actions (3.4-3) bionic; urgency=medium
+ .
+   * Move file manager extensions to Suggest field
+Checksums-Sha1:
+ 609afba839ea75380162c12f9ead7bf816fc0405 2621 filemanager-actions_3.4-3.dsc
+ 518cf005289c496d0ac0ca8cee141edeb8caab2d 3016 filemanager-actions_3.4-3.debian.tar.xz
+ 68a7063b66e28995ef4ad4b5b317f07e9e19cce7 10406 filemanager-actions_3.4-3_source.buildinfo
+Checksums-Sha256:
+ 7a2aa33fffe0e112b39f8fd13773abf92baadd962c2f55463d972afe0ee611fd 2621 filemanager-actions_3.4-3.dsc
+ 816138ecbb16bd4c5eaf9893e3a78292dcb7e9ca5a89185c0220f75bfdaee8c0 3016 filemanager-actions_3.4-3.debian.tar.xz
+ 864d1d83fdb673bc1f4bb705301143403cd9900d5a6cfd9f79427aa983e538e0 10406 filemanager-actions_3.4-3_source.buildinfo
+Files:
+ 120e7d4fcf3fc585d91e04380a7a4522 2621 gnome optional filemanager-actions_3.4-3.dsc
+ 88c97ed79274a6e738c5d5e8a76875f7 3016 gnome optional filemanager-actions_3.4-3.debian.tar.xz
+ bc58136e7facc22124286d125e94bff1 10406 gnome optional filemanager-actions_3.4-3_source.buildinfo
+
+-----BEGIN PGP SIGNATURE-----
+
+iQJOBAEBCgA4FiEENGY0AA4M2jC2fqkmLadDoB5TzEIFAlsPPBAaHGRhbmllbC5t
+YXJ5bmljekBnbWFpbC5jb20ACgkQLadDoB5TzEL6ZxAAqQxSyAoxDBbPzx0froYV
+0Ri5JUNa0aFSixcki6gNFjVIexVD8JvCm+Kv1ejpMzdGu8G2brZGghk2zbXs5svZ
+FByImgf/5cHnGUvw1O23qaIXG8cxAo9LJgoRUhzBjPVXV3xjjXaZm0/VonpsuGBK
+TtqYPosgghZRgAo0X7I3hkzC0hE35NgT70bfW0eN24Fd1vv1URYlCrWQgLvrvbny
+ywzT5jjVMERS1Nb1c6OvDZjZK1jZtYUiSTGxSQ1SHb5kSSB1VNoGEHNrxcJK8rhN
+JS3wchGI3p8VHrg4y96DxMUiGQlW3kFGREJVCBpe5q7dkMcALO+nhjzXHafSoEKT
++zdF751Sv9d/dW92YFVj1RWo6ek6WbPW5wDjcFVMAssI55rQ5ikzM5AbfcWDRAvx
+G2KeT0CGEhegkFt/X+evTHh+GPF7g30c0x7KMfMU0zP4hNvkh9Yg1T7khpS3uDrf
+oZbc2Uge4YHvi31E/imQY25/d7epAYilwURfvSoPRJLNTM+r+x3Gn2hn9cwvCooZ
+z12cVaggBA7yuCAWg+xPsEOrQiozEyHFxjm3zjiHmM7kfxHaYgwzeP+DpnToWu0I
+q5tTT40uEhzGQV9Zw5msEhGVaQdC8wmcFOfVeCuMyuALUHKRtkp5l+O02I9vG4Lz
+oFAqwIJ8fY4djotYdpce5vQ=
+=p2Um
+-----END PGP SIGNATURE-----
